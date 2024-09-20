@@ -5,7 +5,7 @@ This is a basic Web Server built with C++ and the Win32 API that serves HTML.
 
 ## Getting Started
 
-### Prequisites
+### Prerequisites
 - Windows
 - MinGW (g++)
 - Make
