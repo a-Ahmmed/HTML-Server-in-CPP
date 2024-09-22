@@ -1,4 +1,4 @@
-# HTML Server in C++
+# HTTP Server in C++
 
 ## Project Info
 This is a basic Web Server built with C++ and the Win32 API that serves HTML.
@@ -13,9 +13,9 @@ This is a basic Web Server built with C++ and the Win32 API that serves HTML.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/a-Ahmmed/HTML-Server-in-CPP.git
+   git clone https://github.com/a-Ahmmed/HTTP-Server-in-CPP.git
 
-   cd HTML-Server-in-CPP
+   cd HTTP-Server-in-CPP
 2. Compile from source via the Makefile:
    ```bash
    make build
@@ -24,7 +24,7 @@ This is a basic Web Server built with C++ and the Win32 API that serves HTML.
    ./bin/server
 ## Where You Can Get Help
 If you encounter any issues or have questions about this project, you can:
-- Open an issue in the [GitHub Issues](https://github.com/a-Ahmmed/HTML-Server-in-CPP/issues) section.
+- Open an issue in the [GitHub Issues](https://github.com/a-Ahmmed/HTTP-Server-in-CPP/issues) section.
 - Reach out to the maintainers (me) via email
 
 ## Maintainers & Contributers
